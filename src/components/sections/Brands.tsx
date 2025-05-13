@@ -26,7 +26,7 @@ export const Brands = () =>{
                         <div key={key} className="p-4 sm:p-5 rounded-xl bg-body border border-box-border group ">
                             <img 
                             width="100" height="60" 
-                            src={`src/assets/logos/${partner_logos}.png`} 
+                            src={`assets/logos/${partner_logos}.png`} 
                             className="h-7 sm:h-10 w-auto ease-linear duration-300 grayscale group-hover:!grayscale-0 
                                         group-hover:grayscale-105 "
                             />
